@@ -1,3 +1,5 @@
+Calculator.class
 com\qa\mathsoperations\substractor.class
 com\qa\mathsoperations\DivideOp.class
+com\qa\mathsoperations\MultiplyOp.class
 com\qa\mathsoperations\Adder.class
